@@ -1,1 +1,1 @@
-void AddRewardSystemScripts();
+void AddTimeLimiterSystemScripts();

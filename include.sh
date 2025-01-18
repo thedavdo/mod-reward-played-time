@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 	
-MOD_REWARD_SYSTEM_ROOT="$( cd "$( dirname "${BASH_SOURCE[0]}" )/" && pwd )"
+MOD_TIME_LIMITER_SYSTEM_ROOT="$( cd "$( dirname "${BASH_SOURCE[0]}" )/" && pwd )"
 	
 source $MOD_REWARD_SYSTEM_ROOT"/conf/conf.sh.dist"
 	

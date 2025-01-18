@@ -1,0 +1,20 @@
+[worldserver]
+
+#
+#    TimeLimiterSystemAnnounce
+#        Description: Announce the time limiter system
+#        Default:     1  - (Enabled)
+# 
+TimeLimiterSystemAnnounce = 1
+
+#
+#    RewardSystemEnable
+#        Description: Enable the time limiter system
+#        Default:     1  - (Enabled)
+#                     0  - (Disabled)
+TimeLimiterSystemEnable = 1
+
+
+TimeLimiterSystemCurfewEnd = 5
+TimeLimiterSystemCurfewStart = 23
+
